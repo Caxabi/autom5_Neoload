@@ -1,0 +1,17 @@
+POST http://practice.neotys.com/jpetstore/shop/signon.shtml HTTP/1.1
+Host: practice.neotys.com
+Proxy-Connection: keep-alive
+Content-Length: 36
+Cache-Control: max-age=0
+Authorization: Basic bGVhcm5lcjpuM290eXM=
+Upgrade-Insecure-Requests: 1
+Origin: http://practice.neotys.com
+Content-Type: application/x-www-form-urlencoded
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Referer: http://practice.neotys.com/jpetstore/shop/signonForm.shtml
+Accept-Encoding: gzip, deflate
+Accept-Language: fr-FR,fr;q=0.9,en-US;q=0.8,en;q=0.7
+Cookie: JSESSIONID=A285E2A155553092E77022906DD12B62; mf_user=2fb20b33313e5eafe59e614a99aa638f|; keyIncomingSource=Web+Direct; keyCampaignId=7010J0000010vKb; keyCampaignStatus=Responded; _gcl_au=1.1.445529966.1600242226; _ga=GA1.2.520336158.1600242226; _gid=GA1.2.202453561.1600242226; _fbp=fb.1.1600242226232.1044246206; OptanonAlertBoxClosed=2020-09-16T07:43:48.371Z; licenseneoloadaccepted=true; OptanonConsent=isIABGlobal=false&datestamp=Wed+Sep+16+2020+09%3A46%3A47+GMT%2B0200+(heure+d%E2%80%99%C3%A9t%C3%A9+d%E2%80%99Europe+centrale)&version=6.6.0&hosts=&consentId=dc094662-3524-497a-92ac-1dbe0694de7c&interactionCount=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&geolocation=%3B&AwaitingReconsent=false; mf_3b3a682d-43f4-42e7-80ea-4767ce513ae5=e058b9b1f442a39bd1c96e8ef532cefb|091645883afeb103719c61567817c94d88462e46.1456198727.1600242225601$091612319f96dc8f3571af54a3ddee5c2548605e.19572239441.1600242312938$091643599b7ef9f554690940e5daa346721fd6b8.4174187839.1600242403066$09164755e841dd16eec2d0501f05b2843974d3b5.19572239441.1600242407160|1600244255622||4|||0|17.25|17.99828
+
+username=ACID&password=****************&x=37&y=9
